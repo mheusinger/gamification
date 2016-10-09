@@ -1,2 +1,2 @@
 # gamification
-Ideen zum Gamifizieren von Lehr-Lern-Prozessen
+Gamifizieren von Lehr-Lern-Prozessen
