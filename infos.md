@@ -5,4 +5,8 @@ bpb: [Planspiele in der politischen Bildung](http://www.bpb.de/lernen/formate/pl
 Gabriel, Sonja: [Gamification: Wie man mit Spieldesign-Prinzipien Schüler motiviert](https://www.schule.at/news/detail/gamification-wie-man-mit-spieledesign-prinzipien-schueler-motiviert.html)  
 Heusinger, Monika: [Wortschatzlernen digital](http://monika-heusinger.info/blog/wortschatzlernen)  
 Hochberg, Jana: [Was ist Gamification?](http://socialsoftware.fernuni-hagen.de/was-ist-gamification/)  
+Hübner, Tobias: [Gamifying Education](http://www.medienistik.de/Lab-Heft_Gamification.pdf)  
+Spang, André: [#gamification im Unterricht](https://prezi.com/zv0ttdo4arwd/gamification-im-unterricht/)  
+
+
 
