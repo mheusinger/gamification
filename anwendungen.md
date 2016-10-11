@@ -10,7 +10,7 @@
 [PlayBrighter](http://playbrighter.com)  
 [QuesTanja](http://questanja.org)  
 [Quizlet](https://quizlet.com)  
-[Quizlet Live](https://quizlet.com/features/live) 
+[Quizlet Live](https://quizlet.com/features/live)  
 [Rezzly](http://rezzly.com)  
 [scoyo](www-de.scoyo.com)  
 [Socialcube](www.socialcube.net)  
