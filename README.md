@@ -6,6 +6,7 @@ Hier werden Ideen zum Gamifizieren von Lehr-Lern-Prozessen gesammelt.
 
 ### Wer macht mit?
 Monika Heusinger (@mheusinger)  
+Jörg Lohrer (@empeiria)  
 Nando Stöcklin (@RacoonJeff)  
 
 ###Was gibt's bereits?  
