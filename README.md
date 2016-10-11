@@ -12,4 +12,18 @@ Nando Stöcklin (@RacoonJeff)
 ###Was gibt's bereits?  
 Apps und Webanwendungen  
 Best Practice  
-weiterführende Infos
+weiterführende Infos  
+  
+###Was soll das?  
+Jede Menge Spaß  
+Gemeinsame Ideensammlung  
+Freie Lizenz für alle kostenfrei weiterzuverwenden  
+  
+###Wie kann ich mitmachen?  
+Schreibe einfach etwas rein  
+Mit Github kannst du unterstützen  
+  
+###Was brauche ich dazu?  
+Computer  
+Internet  
+Experimentierfreude
