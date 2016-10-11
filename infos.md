@@ -6,7 +6,10 @@ Gabriel, Sonja: [Gamification: Wie man mit Spieldesign-Prinzipien Schüler motiv
 Heusinger, Monika: [Wortschatzlernen digital](http://monika-heusinger.info/blog/wortschatzlernen)  
 Hochberg, Jana: [Was ist Gamification?](http://socialsoftware.fernuni-hagen.de/was-ist-gamification/)  
 Hübner, Tobias: [Gamifying Education](http://www.medienistik.de/Lab-Heft_Gamification.pdf)  
+Kapp, Karl: [The Gamification of Learning and Instruction](http://karlkapp.com/books/)  
+Sheldon, Lee: [The Multiplayer Classroom](http://themultiplayerclassroom.com)  
 Spang, André: [#gamification im Unterricht](https://prezi.com/zv0ttdo4arwd/gamification-im-unterricht/)  
+Stöcklin, Nando: [Blogbeiträge zu Gamification des Unterrichtes](http://www.nandostoecklin.ch/category/gamification)
 
 
 
