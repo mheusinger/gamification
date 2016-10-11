@@ -1,7 +1,7 @@
 #Apps oder Webanwendungen  
 [Actionbound](https://de.actionbound.com)  
 [Classbadges](http://classbadges.com)  
-[Classcraft](https://www.classcraft.com/de/) 
+[Classcraft](https://www.classcraft.com/de/)  
 [Class Dojo](www.classdojo.com)  
 [Kahoot](https://getkahoot.com)  
 [LearningApps](http://learningapps.org)  
