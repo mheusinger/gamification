@@ -6,7 +6,7 @@
 [Kahoot](https://getkahoot.com)  
 [LearningApps](http://learningapps.org)  
 [Minecraft](https://minecraft.net/de/)  
-[Minecraft EDU](http://education.minecraft.net) 
+[Minecraft EDU](http://education.minecraft.net)  
 [PlayBrighter](http://playbrighter.com)  
 [QuesTanja](http://questanja.org)  
 [Quizlet](https://quizlet.com)  
